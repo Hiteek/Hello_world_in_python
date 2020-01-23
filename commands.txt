@@ -19,6 +19,7 @@ Formas de corregir un commit:
 ¿Como clonar un repositorio?
 git clone url -> genera una carpeta con el nombre respectivo (name)
 cd namegit status
+
 git commit
 ...
 git push
