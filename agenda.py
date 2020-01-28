@@ -37,12 +37,12 @@ while True:
         print('Error! Escoja una opcion valida')
     else:
         if number == 1:
-            nombre = input('Nombre: ')
+            nombre = input('Ingresa Nombre: ')
             agregar_contacto(nombre)
         elif number == 2:
-            nombre = input('Nombre: ')
+            nombre = input('Ingresa Nombre: ')
         elif number == 3:
             mostrar_contacto()
         else:
-            nombre = input('Nombre: ')
+            nombre = input('Ingresa Nombre: ')
             buscar_contacto
