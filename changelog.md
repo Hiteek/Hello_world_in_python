@@ -15,3 +15,6 @@ A simple _hello world_ script in Python.
 -   Added *class 4*
 -   Added *class 5*
 -   Added *exceptions.py*
+## Version 1.0.4:
+-   Added *class 6*
+
